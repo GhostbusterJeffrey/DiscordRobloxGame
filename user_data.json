@@ -1,0 +1,5 @@
+{ 
+  "123": { // This number indicates the user's Discord ID, use ID instead of username due to name changes
+    "roblox_username" : "GhostbusterJeffrey"
+  }
+}
